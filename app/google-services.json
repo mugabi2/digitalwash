@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "560138079707",
+    "firebase_url": "https://digital-wash.firebaseio.com",
+    "project_id": "digital-wash",
+    "storage_bucket": "digital-wash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560138079707:android:9f0bc9162d60e66e",
+        "android_client_info": {
+          "package_name": "com.example.samuelhimself.digitalwash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560138079707-muaees7jr3g9qn72cuo5lpch3cp7fpif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samuelhimself.digitalwash",
+            "certificate_hash": "74d9790e9d0c01cf1d50936686c94740dbb8ebd7"
+          }
+        },
+        {
+          "client_id": "560138079707-vg9asgeq0o6lbcib97jmlrtf0i1vqlnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK_OWBcB5-A8UYP5S_Dr8sdx5cBYegiOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560138079707-vg9asgeq0o6lbcib97jmlrtf0i1vqlnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
